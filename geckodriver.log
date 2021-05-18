@@ -623,3 +623,20 @@ JavaScript warning: https://pagead2.googlesyndication.com/bg/DyQI0nSy6BUFz1wbhNn
 
 ###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
 
+1621364296120	geckodriver	INFO	Listening on 127.0.0.1:50943
+1621364297127	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileJFhWj2"
+*** You are running in headless mode.
+1621364297745	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:32049): GLib-GObject-CRITICAL **: 15:58:18.318: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:32069): GLib-GObject-CRITICAL **: 15:58:18.455: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621364299571	Marionette	INFO	Listening on port 37099
+
+(/usr/lib/firefox/firefox:32144): GLib-GObject-CRITICAL **: 15:58:19.645: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1621364299658	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/nLZh5JKb4_vODtvfmJ49yJer_4HAQSIF0KjuUH5BuEE.js line 1 > eval line 7584 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/nLZh5JKb4_vODtvfmJ49yJer_4HAQSIF0KjuUH5BuEE.js line 1 > eval line 7584 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1621364375160	Marionette	INFO	Stopped listening on port 37099
