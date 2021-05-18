@@ -1,0 +1,625 @@
+1620776001191	geckodriver	INFO	Listening on 127.0.0.1:57675
+1620776002190	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilehemHmT"
+*** You are running in headless mode.
+1620776003301	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:32349): GLib-GObject-CRITICAL **: 20:33:24.111: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:32371): GLib-GObject-CRITICAL **: 20:33:24.259: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620776005353	Marionette	INFO	Listening on port 32793
+1620776005432	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:32445): GLib-GObject-CRITICAL **: 20:33:25.439: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+JavaScript error: https://www.nba.com/stats/players/traditional/, line 1934: ReferenceError: AdFuel is not defined
+1620776052258	Marionette	INFO	Stopped listening on port 32793
+1620776053831	geckodriver	INFO	Listening on 127.0.0.1:49169
+1620776054834	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileaDV3IM"
+*** You are running in headless mode.
+1620776055501	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:32644): GLib-GObject-CRITICAL **: 20:34:16.113: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:32664): GLib-GObject-CRITICAL **: 20:34:16.249: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620776057326	Marionette	INFO	Listening on port 38559
+1620776057365	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:32741): GLib-GObject-CRITICAL **: 20:34:17.419: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1620776068451	Marionette	INFO	Stopped listening on port 38559
+1620776182032	geckodriver	INFO	Listening on 127.0.0.1:45511
+1620776183039	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilefxrxVr"
+*** You are running in headless mode.
+1620776183642	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:33093): GLib-GObject-CRITICAL **: 20:36:24.223: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:33115): GLib-GObject-CRITICAL **: 20:36:24.372: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620776185492	Marionette	INFO	Listening on port 36603
+1620776185568	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:33190): GLib-GObject-CRITICAL **: 20:36:25.580: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1620776201111	Marionette	INFO	Stopped listening on port 36603
+1620776219389	geckodriver	INFO	Listening on 127.0.0.1:42027
+1620776220399	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileV1kXqk"
+*** You are running in headless mode.
+1620776220996	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:33644): GLib-GObject-CRITICAL **: 20:37:01.653: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:33664): GLib-GObject-CRITICAL **: 20:37:01.809: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620776222987	Marionette	INFO	Listening on port 46035
+1620776223033	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:33745): GLib-GObject-CRITICAL **: 20:37:03.076: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1620776233442	Marionette	INFO	Stopped listening on port 46035
+JavaScript error: https://www.nba.com/stats/players/traditional/, line 6: NS_ERROR_NOT_INITIALIZED: 
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620776247374	geckodriver	INFO	Listening on 127.0.0.1:57725
+1620776248384	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileByQ5ZK"
+*** You are running in headless mode.
+1620776248959	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:33924): GLib-GObject-CRITICAL **: 20:37:29.546: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:33944): GLib-GObject-CRITICAL **: 20:37:29.687: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620776250750	Marionette	INFO	Listening on port 36887
+1620776250820	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:34031): GLib-GObject-CRITICAL **: 20:37:30.839: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1620776305901	Marionette	INFO	Stopped listening on port 36887
+1620776311724	geckodriver	INFO	Listening on 127.0.0.1:44055
+1620776312732	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileM7whTG"
+*** You are running in headless mode.
+1620776313303	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:34237): GLib-GObject-CRITICAL **: 20:38:33.885: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:34257): GLib-GObject-CRITICAL **: 20:38:34.026: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620776315050	Marionette	INFO	Listening on port 46145
+
+(/usr/lib/firefox/firefox:34333): GLib-GObject-CRITICAL **: 20:38:35.091: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1620776315162	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620776341539	Marionette	INFO	Stopped listening on port 46145
+1620776414850	geckodriver	INFO	Listening on 127.0.0.1:48581
+1620776415853	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile6EpLVo"
+*** You are running in headless mode.
+1620776416434	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:34798): GLib-GObject-CRITICAL **: 20:40:17.004: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:34820): GLib-GObject-CRITICAL **: 20:40:17.147: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620776418101	Marionette	INFO	Listening on port 35281
+
+(/usr/lib/firefox/firefox:34900): GLib-GObject-CRITICAL **: 20:40:18.184: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1620776418192	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620776448254	Marionette	INFO	Stopped listening on port 35281
+1620776732195	geckodriver	INFO	Listening on 127.0.0.1:34595
+1620776733185	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileIPvlu8"
+*** You are running in headless mode.
+1620776733865	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:35388): GLib-GObject-CRITICAL **: 20:45:34.381: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:35413): GLib-GObject-CRITICAL **: 20:45:34.555: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620776735845	Marionette	INFO	Listening on port 39159
+1620776735913	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:35487): GLib-GObject-CRITICAL **: 20:45:35.969: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1620776752032	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1620776789312	geckodriver	INFO	Listening on 127.0.0.1:59609
+1620776790321	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile1YFBFy"
+1620776790992	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620776793168	Marionette	INFO	Listening on port 34435
+1620776793255	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(firefox:35611): GLib-GObject-WARNING **: 20:46:45.375: ../../../gobject/gsignal.c:3600: signal name 'load_complete' is invalid for instance '0x7fd76ae65d70' of type 'MaiAtkType139'
+1620776812606	Marionette	INFO	Stopped listening on port 34435
+1620776832669	geckodriver	INFO	Listening on 127.0.0.1:37701
+1620776833676	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilexDrMtI"
+1620776834309	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620776836473	Marionette	INFO	Listening on port 34063
+1620776836514	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(firefox:35937): GLib-GObject-WARNING **: 20:47:37.334: ../../../gobject/gsignal.c:3600: signal name 'load_complete' is invalid for instance '0x7f1392793950' of type 'MaiAtkType139'
+1620776864645	Marionette	INFO	Stopped listening on port 34063
+JavaScript error: , line 0: uncaught exception: undefined
+1620776869364	geckodriver	INFO	Listening on 127.0.0.1:60029
+1620776870370	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile7dM2Zo"
+1620776870998	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620776873101	Marionette	INFO	Listening on port 43797
+1620776873200	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(firefox:36231): GLib-GObject-WARNING **: 20:48:19.277: ../../../gobject/gsignal.c:3600: signal name 'load_complete' is invalid for instance '0x7feab62e6290' of type 'MaiAtkType139'
+1620776907118	Marionette	INFO	Stopped listening on port 43797
+1620777849957	geckodriver	INFO	Listening on 127.0.0.1:41453
+1620777850956	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile8KWz77"
+1620777851685	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620777853720	Marionette	INFO	Listening on port 41949
+1620777853824	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(firefox:37389): GLib-GObject-WARNING **: 21:04:39.495: ../../../gobject/gsignal.c:3600: signal name 'load_complete' is invalid for instance '0x7ff393e14530' of type 'MaiAtkType139'
+1620777899559	Marionette	INFO	Stopped listening on port 41949
+1620778462264	geckodriver	INFO	Listening on 127.0.0.1:40069
+1620778463262	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilevjOLBA"
+1620778463974	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620778466301	Marionette	INFO	Listening on port 35429
+1620778466405	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(firefox:38307): GLib-GObject-WARNING **: 21:14:45.684: ../../../gobject/gsignal.c:3600: signal name 'load_complete' is invalid for instance '0x7f2cd049f2f0' of type 'MaiAtkType139'
+1620778615048	Marionette	INFO	Stopped listening on port 35429
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620778664948	geckodriver	INFO	Listening on 127.0.0.1:49237
+1620778665949	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile0Ap9ka"
+1620778667055	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620778669306	Marionette	INFO	Listening on port 34279
+1620778669381	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(firefox:38779): GLib-GObject-WARNING **: 21:18:10.118: ../../../gobject/gsignal.c:3600: signal name 'load_complete' is invalid for instance '0x7fa931e52d70' of type 'MaiAtkType139'
+1620778765703	Marionette	INFO	Stopped listening on port 34279
+1620778858060	geckodriver	INFO	Listening on 127.0.0.1:48737
+1620778859066	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileHEaE9D"
+1620778859938	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620778862078	Marionette	INFO	Listening on port 34369
+1620778862218	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(firefox:39217): GLib-GObject-WARNING **: 21:21:30.122: ../../../gobject/gsignal.c:3600: signal name 'load_complete' is invalid for instance '0x7f52fb608d10' of type 'MaiAtkType139'
+1620778898356	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1620778898880	Marionette	INFO	Stopped listening on port 34369
+1620779083103	geckodriver	INFO	Listening on 127.0.0.1:35155
+1620779084107	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileqWhvAz"
+1620779085256	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620779087650	Marionette	INFO	Listening on port 35285
+1620779087750	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(firefox:40098): GLib-GObject-WARNING **: 21:24:57.223: ../../../gobject/gsignal.c:3600: signal name 'load_complete' is invalid for instance '0x7fc9429a0230' of type 'MaiAtkType139'
+
+(firefox:40098): GLib-GObject-WARNING **: 21:25:01.866: ../../../gobject/gsignal.c:3600: signal name 'load_complete' is invalid for instance '0x7fc942adb7d0' of type 'MaiAtkType139'
+
+(firefox:40098): GLib-GObject-WARNING **: 21:25:01.866: ../../../gobject/gsignal.c:3600: signal name 'load_complete' is invalid for instance '0x7fc942adb290' of type 'MaiAtkType139'
+console.warn: "Inspector destroyed while executing onReflow callback"
+JavaScript error: , line 0: uncaught exception: undefined
+1620779170270	Marionette	INFO	Stopped listening on port 35285
+1620786458350	geckodriver	INFO	Listening on 127.0.0.1:39679
+1620786459349	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilehUExL6"
+[GFX1-]: More than 1 GPU detected via PCI, cannot deduce vendor
+[GFX1-]: PCI candidate 0x8086/0x0166
+[GFX1-]: PCI candidate 0x1002/0x6840
+1620786460836	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620786463281	Marionette	INFO	Listening on port 38533
+1620786463387	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(firefox:10810): GLib-GObject-WARNING **: 23:27:59.019: ../../../gobject/gsignal.c:3600: signal name 'load_complete' is invalid for instance '0x7f8429d420b0' of type 'MaiAtkType139'
+1620786487254	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1620786506240	Marionette	INFO	Stopped listening on port 38533
+1620786896026	geckodriver	INFO	Listening on 127.0.0.1:41213
+1620786897035	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilemPF1pT"
+[GFX1-]: More than 1 GPU detected via PCI, cannot deduce vendor
+[GFX1-]: PCI candidate 0x8086/0x0166
+[GFX1-]: PCI candidate 0x1002/0x6840
+1620786898311	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620786900526	Marionette	INFO	Listening on port 44113
+1620786900573	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(firefox:11396): GLib-GObject-WARNING **: 23:35:12.526: ../../../gobject/gsignal.c:3600: signal name 'load_complete' is invalid for instance '0x7f16d5fdd050' of type 'MaiAtkType139'
+1620786920121	Marionette	INFO	Stopped listening on port 44113
+1620786924803	geckodriver	INFO	Listening on 127.0.0.1:48305
+1620786925809	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileijdMnM"
+[GFX1-]: More than 1 GPU detected via PCI, cannot deduce vendor
+[GFX1-]: PCI candidate 0x8086/0x0166
+[GFX1-]: PCI candidate 0x1002/0x6840
+1620786927119	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620786929224	Marionette	INFO	Listening on port 39631
+1620786929338	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(firefox:11708): GLib-GObject-WARNING **: 23:35:39.390: ../../../gobject/gsignal.c:3600: signal name 'load_complete' is invalid for instance '0x7f20d248e0b0' of type 'MaiAtkType139'
+1620786947577	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1620786948635	Marionette	INFO	Stopped listening on port 39631
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1709: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1709: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1709: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+1620786982043	geckodriver	INFO	Listening on 127.0.0.1:34743
+1620786983049	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileH733D1"
+*** You are running in headless mode.
+[GFX1-]: More than 1 GPU detected via PCI, cannot deduce vendor
+[GFX1-]: PCI candidate 0x8086/0x0166
+[GFX1-]: PCI candidate 0x1002/0x6840
+1620786984286	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:12117): GLib-GObject-CRITICAL **: 23:36:24.926: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:12137): GLib-GObject-CRITICAL **: 23:36:25.053: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620786986275	Marionette	INFO	Listening on port 44073
+
+(/usr/lib/firefox/firefox:12212): GLib-GObject-CRITICAL **: 23:36:26.276: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1620786986382	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620787005860	Marionette	INFO	Stopped listening on port 44073
+1621034006516	geckodriver	INFO	Listening on 127.0.0.1:56259
+1621034007511	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileedyzJn"
+*** You are running in headless mode.
+[GFX1-]: More than 1 GPU detected via PCI, cannot deduce vendor
+[GFX1-]: PCI candidate 0x8086/0x0166
+[GFX1-]: PCI candidate 0x1002/0x6840
+1621034008321	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:11958): GLib-GObject-CRITICAL **: 20:13:28.930: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:11979): GLib-GObject-CRITICAL **: 20:13:29.079: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:12052): GLib-GObject-CRITICAL **: 20:13:30.274: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1621034010280	Marionette	INFO	Listening on port 41147
+1621034010353	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621034052967	Marionette	INFO	Stopped listening on port 41147
+JavaScript error: https://www.nba.com/stats/players/traditional/?sort=PTS&dir=1, line 6: NS_ERROR_NOT_INITIALIZED: 
+1621034166923	geckodriver	INFO	Listening on 127.0.0.1:41153
+1621034167932	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileVV0c42"
+[GFX1-]: More than 1 GPU detected via PCI, cannot deduce vendor
+[GFX1-]: PCI candidate 0x8086/0x0166
+[GFX1-]: PCI candidate 0x1002/0x6840
+1621034168722	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621034170810	Marionette	INFO	Listening on port 35079
+1621034170884	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621034186092	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1621034272287	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://tpc.googlesyndication.com/sodar/Enqz_20U.html, line 11: uncaught exception: 7
+1621034272383	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1621034602126	geckodriver	INFO	Listening on 127.0.0.1:48307
+1621034603134	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilewoBzND"
+[GFX1-]: More than 1 GPU detected via PCI, cannot deduce vendor
+[GFX1-]: PCI candidate 0x8086/0x0166
+[GFX1-]: PCI candidate 0x1002/0x6840
+1621034604433	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621034606554	Marionette	INFO	Listening on port 34203
+1621034606664	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(firefox:16368): GLib-GObject-WARNING **: 20:23:59.430: ../../../gobject/gsignal.c:3600: signal name 'load_complete' is invalid for instance '0x7f3382a8ea70' of type 'MaiAtkType139'
+1621034648152	Marionette	INFO	Stopped listening on port 34203
+1621034862455	geckodriver	INFO	Listening on 127.0.0.1:41035
+1621034863466	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilevMBonS"
+[GFX1-]: More than 1 GPU detected via PCI, cannot deduce vendor
+[GFX1-]: PCI candidate 0x8086/0x0166
+[GFX1-]: PCI candidate 0x1002/0x6840
+1621034864855	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621034866819	Marionette	INFO	Listening on port 33613
+1621034866920	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(firefox:16789): GLib-GObject-WARNING **: 20:28:00.169: ../../../gobject/gsignal.c:3600: signal name 'load_complete' is invalid for instance '0x7f5763b7e350' of type 'MaiAtkType139'
+1621034888330	Marionette	INFO	Stopped listening on port 33613
+JavaScript error: https://www.nba.com/stats/players/traditional/?sort=PTS&dir=1, line 6: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: /tmp/rust_mozprofileVV0c42/protections.sqlite
+1621035029937	Marionette	INFO	Stopped listening on port 35079
+1621035075177	geckodriver	INFO	Listening on 127.0.0.1:35863
+1621035076186	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilebrF1u7"
+[GFX1-]: More than 1 GPU detected via PCI, cannot deduce vendor
+[GFX1-]: PCI candidate 0x8086/0x0166
+[GFX1-]: PCI candidate 0x1002/0x6840
+1621035077424	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621035079461	Marionette	INFO	Listening on port 46853
+1621035079517	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.nba.com/stats/players/traditional/?sort=PTS&dir=1, line 1934: ReferenceError: AdFuel is not defined
+JavaScript error: https://www.nba.com/stats/players/traditional/?sort=PTS&dir=1, line 1934: ReferenceError: AdFuel is not defined
+
+(firefox:17225): GLib-GObject-WARNING **: 20:33:20.504: ../../../gobject/gsignal.c:3600: signal name 'load_complete' is invalid for instance '0x7fa770e1c9b0' of type 'MaiAtkType139'
+1621035207665	Marionette	INFO	Stopped listening on port 46853
+1621035758584	geckodriver	INFO	Listening on 127.0.0.1:35911
+1621035759594	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiles7eSHF"
+[GFX1-]: More than 1 GPU detected via PCI, cannot deduce vendor
+[GFX1-]: PCI candidate 0x8086/0x0166
+[GFX1-]: PCI candidate 0x1002/0x6840
+1621035760815	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621035762641	Marionette	INFO	Listening on port 46257
+1621035762724	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(firefox:18059): GLib-GObject-WARNING **: 20:42:59.696: ../../../gobject/gsignal.c:3600: signal name 'load_complete' is invalid for instance '0x7fa9b7602f50' of type 'MaiAtkType139'
+1621035819360	Marionette	INFO	Stopped listening on port 46257
+1621035941050	geckodriver	INFO	Listening on 127.0.0.1:57065
+1621035942059	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile26HALa"
+[GFX1-]: More than 1 GPU detected via PCI, cannot deduce vendor
+[GFX1-]: PCI candidate 0x8086/0x0166
+[GFX1-]: PCI candidate 0x1002/0x6840
+1621035943306	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621035945248	Marionette	INFO	Listening on port 36211
+1621035945297	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.nba.com/stats/players/traditional/?sort=PTS&dir=1, line 1934: ReferenceError: AdFuel is not defined
+
+(firefox:18460): GLib-GObject-WARNING **: 20:48:18.093: ../../../gobject/gsignal.c:3600: signal name 'load_complete' is invalid for instance '0x7f5dd13e2890' of type 'MaiAtkType139'
+1621036387635	Marionette	INFO	Stopped listening on port 36211
+1621037033468	geckodriver	INFO	Listening on 127.0.0.1:55021
+1621037034464	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileHtJNZV"
+[GFX1-]: More than 1 GPU detected via PCI, cannot deduce vendor
+[GFX1-]: PCI candidate 0x8086/0x0166
+[GFX1-]: PCI candidate 0x1002/0x6840
+1621037035715	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621037037877	Marionette	INFO	Listening on port 37437
+1621037037998	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(firefox:19672): GLib-GObject-WARNING **: 21:04:11.139: ../../../gobject/gsignal.c:3600: signal name 'load_complete' is invalid for instance '0x7fb1dcd9f590' of type 'MaiAtkType139'
+1621037060042	Marionette	INFO	Stopped listening on port 37437
+JavaScript error: https://www.nba.com/stats/players/traditional/?sort=PTS&dir=1, line 6: NS_ERROR_NOT_INITIALIZED: 
+1621037089476	geckodriver	INFO	Listening on 127.0.0.1:39967
+1621037090480	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileLmnmge"
+[GFX1-]: More than 1 GPU detected via PCI, cannot deduce vendor
+[GFX1-]: PCI candidate 0x8086/0x0166
+[GFX1-]: PCI candidate 0x1002/0x6840
+1621037091806	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621037093767	Marionette	INFO	Listening on port 38519
+1621037093814	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(firefox:20052): GLib-GObject-WARNING **: 21:05:11.880: ../../../gobject/gsignal.c:3600: signal name 'load_complete' is invalid for instance '0x7fa80c74f9b0' of type 'MaiAtkType139'
+1621037120205	Marionette	INFO	Stopped listening on port 38519
+JavaScript error: https://www.nba.com/stats/players/traditional/?sort=PTS&dir=1, line 6: NS_ERROR_NOT_INITIALIZED: 
+1621038490258	geckodriver	INFO	Listening on 127.0.0.1:33827
+1621038491252	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileAanzqq"
+[GFX1-]: More than 1 GPU detected via PCI, cannot deduce vendor
+[GFX1-]: PCI candidate 0x8086/0x0166
+[GFX1-]: PCI candidate 0x1002/0x6840
+1621038493260	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621038495922	Marionette	INFO	Listening on port 45769
+1621038496006	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(firefox:21650): GLib-GObject-WARNING **: 21:28:34.124: ../../../gobject/gsignal.c:3600: signal name 'load_complete' is invalid for instance '0x7f2a94bc4cb0' of type 'MaiAtkType139'
+1621038597548	geckodriver	INFO	Listening on 127.0.0.1:39609
+1621038598540	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileIgtdYD"
+[GFX1-]: More than 1 GPU detected via PCI, cannot deduce vendor
+[GFX1-]: PCI candidate 0x8086/0x0166
+[GFX1-]: PCI candidate 0x1002/0x6840
+1621038600475	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621038603199	Marionette	INFO	Listening on port 39907
+1621038603330	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1621038636015	Marionette	INFO	Stopped listening on port 45769
+
+(firefox:22055): GLib-GObject-WARNING **: 21:30:51.501: ../../../gobject/gsignal.c:3600: signal name 'load_complete' is invalid for instance '0x7f3a82db6e90' of type 'MaiAtkType139'
+1621038663852	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1621038664573	Marionette	INFO	Stopped listening on port 39907
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0112,name=PContent::Msg_AccumulateChildHistograms) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0117,name=PContent::Msg_RecordDiscardedData) Channel closing: too late to send/recv, messages will be lost
+
+1621360330421	geckodriver	INFO	Listening on 127.0.0.1:49109
+1621360331413	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile5b8Rcp"
+1621360332234	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621360334924	Marionette	INFO	Listening on port 42155
+1621360335050	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1621360474333	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1621360486312	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+
+(firefox:26095): GLib-GObject-WARNING **: 14:54:50.576: ../../../gobject/gsignal.c:3600: signal name 'load_complete' is invalid for instance '0x7ff35c420b30' of type 'MaiAtkType139'
+1621360822812	Marionette	INFO	Stopped listening on port 42155
+1621360861876	geckodriver	INFO	Listening on 127.0.0.1:57391
+1621360862883	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileS9oY9J"
+1621360863770	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621360866148	Marionette	INFO	Listening on port 39137
+1621360866215	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621360959945	Marionette	INFO	Stopped listening on port 39137
+1621361036657	geckodriver	INFO	Listening on 127.0.0.1:41161
+1621361037665	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileG11Hc7"
+1621361038302	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621361040647	Marionette	INFO	Listening on port 41273
+1621361040699	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(firefox:27654): GLib-GObject-WARNING **: 15:04:22.352: ../../../gobject/gsignal.c:3600: signal name 'load_complete' is invalid for instance '0x7f44b2f5d9b0' of type 'MaiAtkType139'
+1621361076211	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1621361077376	Marionette	INFO	Stopped listening on port 41273
+1621361784430	geckodriver	INFO	Listening on 127.0.0.1:58747
+1621361785435	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileJZBTri"
+1621361786069	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621361788132	Marionette	INFO	Listening on port 38739
+1621361788171	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(firefox:28711): GLib-GObject-WARNING **: 15:16:55.395: ../../../gobject/gsignal.c:3600: signal name 'load_complete' is invalid for instance '0x7fa705da2770' of type 'MaiAtkType139'
+1621361829664	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1621361839579	Marionette	INFO	Stopped listening on port 38739
+1621361987440	geckodriver	INFO	Listening on 127.0.0.1:45201
+1621361988446	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileYyG3TX"
+*** You are running in headless mode.
+1621361989026	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:29184): GLib-GObject-CRITICAL **: 15:19:49.627: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:29208): GLib-GObject-CRITICAL **: 15:19:49.741: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621361990701	Marionette	INFO	Listening on port 38945
+1621361990787	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:29287): GLib-GObject-CRITICAL **: 15:19:50.800: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+JavaScript error: https://www.nba.com/stats/players/traditional/, line 1934: ReferenceError: AdFuel is not defined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/nLZh5JKb4_vODtvfmJ49yJer_4HAQSIF0KjuUH5BuEE.js line 1 > eval line 6091 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/nLZh5JKb4_vODtvfmJ49yJer_4HAQSIF0KjuUH5BuEE.js line 1 > eval line 6091 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/nLZh5JKb4_vODtvfmJ49yJer_4HAQSIF0KjuUH5BuEE.js line 1 > eval line 2421 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/nLZh5JKb4_vODtvfmJ49yJer_4HAQSIF0KjuUH5BuEE.js line 1 > eval line 2421 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/nLZh5JKb4_vODtvfmJ49yJer_4HAQSIF0KjuUH5BuEE.js line 1 > eval line 2183 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/nLZh5JKb4_vODtvfmJ49yJer_4HAQSIF0KjuUH5BuEE.js line 1 > eval line 2183 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1621362099210	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript warning: https://pagead2.googlesyndication.com/bg/DyQI0nSy6BUFz1wbhNnw1YMoJJCDSr_iJxDmlzQsBeQ.js line 1 > eval line 7061 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/DyQI0nSy6BUFz1wbhNnw1YMoJJCDSr_iJxDmlzQsBeQ.js line 1 > eval line 7061 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1621362126399	geckodriver	INFO	Listening on 127.0.0.1:43369
+1621362127408	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilenfebXO"
+*** You are running in headless mode.
+1621362128012	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:29546): GLib-GObject-CRITICAL **: 15:22:08.665: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:29566): GLib-GObject-CRITICAL **: 15:22:08.788: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:29645): GLib-GObject-CRITICAL **: 15:22:10.008: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1621362130017	Marionette	INFO	Listening on port 37069
+1621362130141	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/DyQI0nSy6BUFz1wbhNnw1YMoJJCDSr_iJxDmlzQsBeQ.js line 1 > eval line 5675 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/DyQI0nSy6BUFz1wbhNnw1YMoJJCDSr_iJxDmlzQsBeQ.js line 1 > eval line 5675 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/nLZh5JKb4_vODtvfmJ49yJer_4HAQSIF0KjuUH5BuEE.js line 1 > eval line 361 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/nLZh5JKb4_vODtvfmJ49yJer_4HAQSIF0KjuUH5BuEE.js line 1 > eval line 361 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/DyQI0nSy6BUFz1wbhNnw1YMoJJCDSr_iJxDmlzQsBeQ.js line 1 > eval line 5317 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/DyQI0nSy6BUFz1wbhNnw1YMoJJCDSr_iJxDmlzQsBeQ.js line 1 > eval line 5317 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1621362179423	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/nLZh5JKb4_vODtvfmJ49yJer_4HAQSIF0KjuUH5BuEE.js line 1 > eval line 1441 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/nLZh5JKb4_vODtvfmJ49yJer_4HAQSIF0KjuUH5BuEE.js line 1 > eval line 1441 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/nLZh5JKb4_vODtvfmJ49yJer_4HAQSIF0KjuUH5BuEE.js line 1 > eval line 4040 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/nLZh5JKb4_vODtvfmJ49yJer_4HAQSIF0KjuUH5BuEE.js line 1 > eval line 4040 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/DyQI0nSy6BUFz1wbhNnw1YMoJJCDSr_iJxDmlzQsBeQ.js line 1 > eval line 2764 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/DyQI0nSy6BUFz1wbhNnw1YMoJJCDSr_iJxDmlzQsBeQ.js line 1 > eval line 2764 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/nLZh5JKb4_vODtvfmJ49yJer_4HAQSIF0KjuUH5BuEE.js line 1 > eval line 1690 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/nLZh5JKb4_vODtvfmJ49yJer_4HAQSIF0KjuUH5BuEE.js line 1 > eval line 1690 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1621362221862	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript warning: https://pagead2.googlesyndication.com/bg/nLZh5JKb4_vODtvfmJ49yJer_4HAQSIF0KjuUH5BuEE.js line 1 > eval line 6110 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/nLZh5JKb4_vODtvfmJ49yJer_4HAQSIF0KjuUH5BuEE.js line 1 > eval line 6110 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/nLZh5JKb4_vODtvfmJ49yJer_4HAQSIF0KjuUH5BuEE.js line 1 > eval line 810 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/nLZh5JKb4_vODtvfmJ49yJer_4HAQSIF0KjuUH5BuEE.js line 1 > eval line 810 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1621362223276	Marionette	INFO	Stopped listening on port 37069
+JavaScript error: https://33f12c2c8494ba34a1073c968869419d.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 12 > injectedScript line 13 > eval, line 1: NS_ERROR_NOT_INITIALIZED: 
+1621362380076	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+1621362875058	geckodriver	INFO	Listening on 127.0.0.1:38651
+1621362876062	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile4fswoS"
+*** You are running in headless mode.
+1621362876726	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:30443): GLib-GObject-CRITICAL **: 15:34:37.285: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:30464): GLib-GObject-CRITICAL **: 15:34:37.432: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621362878442	Marionette	INFO	Listening on port 38207
+1621362878520	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:30540): GLib-GObject-CRITICAL **: 15:34:38.539: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+JavaScript warning: https://pagead2.googlesyndication.com/bg/nLZh5JKb4_vODtvfmJ49yJer_4HAQSIF0KjuUH5BuEE.js line 1 > eval line 3237 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/nLZh5JKb4_vODtvfmJ49yJer_4HAQSIF0KjuUH5BuEE.js line 1 > eval line 3237 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1621362902370	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1621362903307	Marionette	INFO	Stopped listening on port 38207
+1621363110530	geckodriver	INFO	Listening on 127.0.0.1:58879
+1621363111539	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileoTxRE6"
+*** You are running in headless mode.
+1621363112229	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:30845): GLib-GObject-CRITICAL **: 15:38:32.801: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:30865): GLib-GObject-CRITICAL **: 15:38:32.924: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621363113856	Marionette	INFO	Listening on port 42651
+
+(/usr/lib/firefox/firefox:30942): GLib-GObject-CRITICAL **: 15:38:33.942: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1621363113966	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/nLZh5JKb4_vODtvfmJ49yJer_4HAQSIF0KjuUH5BuEE.js line 1 > eval line 2534 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/nLZh5JKb4_vODtvfmJ49yJer_4HAQSIF0KjuUH5BuEE.js line 1 > eval line 2534 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/nLZh5JKb4_vODtvfmJ49yJer_4HAQSIF0KjuUH5BuEE.js line 1 > eval line 6798 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/nLZh5JKb4_vODtvfmJ49yJer_4HAQSIF0KjuUH5BuEE.js line 1 > eval line 6798 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/nLZh5JKb4_vODtvfmJ49yJer_4HAQSIF0KjuUH5BuEE.js line 1 > eval line 2057 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/nLZh5JKb4_vODtvfmJ49yJer_4HAQSIF0KjuUH5BuEE.js line 1 > eval line 2057 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/DyQI0nSy6BUFz1wbhNnw1YMoJJCDSr_iJxDmlzQsBeQ.js line 1 > eval line 6765 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/DyQI0nSy6BUFz1wbhNnw1YMoJJCDSr_iJxDmlzQsBeQ.js line 1 > eval line 6765 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1621363135978	Marionette	INFO	Stopped listening on port 42651
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x230032,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
